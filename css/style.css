@@ -1,0 +1,52 @@
+header
+{
+  background:red;
+  text-align: center;
+}
+h1
+{
+  margin-bottom: 0;
+}
+nav ul
+{
+  margin-top:0 ;
+}
+nav ul li
+{
+  display:inline;
+}
+nav
+{
+    background:yellow;
+    height:50px;
+}
+#leftaside
+{
+  padding-bottom: 5px;
+  background:brown;
+  width:30%;
+  height:600px;
+  float:left;
+}
+#rightaside
+{
+  background:brown;
+  width:30%;
+  height:600px;
+  float: right;
+}
+section
+{
+  width:40%;
+  height:600px;
+  float:left;
+  background-color: #e3e3e3;
+
+}
+footer{
+  text-align: center;
+  height:100%;
+  clear:both;
+  background-color:lightblue;
+
+}
